@@ -26,7 +26,7 @@ The following dependencies are required and will be installed via `requirements.
 ### Step 1: Clone the Repository
 ```sh
 git clone https://github.com/iNeuronix-ai/Build-Your-Own-Vibe-Coding-Agent-The-Future-of-AI-Powered-Development-.git
-cd <repository_name> Build-Your-Own-Vibe-Coding-Agent-The-Future-of-AI-Powered-Development-
+cd Build-Your-Own-Vibe-Coding-Agent-The-Future-of-AI-Powered-Development-/
 ```
 
 ### Step 2: Create and Activate Virtual Environment
@@ -78,7 +78,7 @@ uvicorn agent:app  --port 3000 --reload
 ### Step 1: Clone the Repository
 ```sh
 git clone https://github.com/iNeuronix-ai/Build-Your-Own-Vibe-Coding-Agent-The-Future-of-AI-Powered-Development-.git
-cd <repository_name> Build-Your-Own-Vibe-Coding-Agent-The-Future-of-AI-Powered-Development-
+cd Build-Your-Own-Vibe-Coding-Agent-The-Future-of-AI-Powered-Development-/
 ```
 
 ### Step 2: Create and Activate Conda Environment
